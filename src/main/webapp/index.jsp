@@ -70,7 +70,7 @@
 <div class="navbar navbar-fixed-top">
   <div class="navbar-inner">
     <div class="container">
-      <a href="/" class="brand">Spring MVC and Hibernate Template</a>
+      <a href="/" class="brand">asirera Web Services</a>
       <!--
       IMPORTANT:
       This is Heroku specific markup. Remove to customize.
