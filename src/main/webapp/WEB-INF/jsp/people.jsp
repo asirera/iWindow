@@ -6,7 +6,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Spring MVC and Hibernate Template</title>
+    <title>Web Services</title>
 
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,7 +18,7 @@
       IMPORTANT:
       This is Heroku specific styling. Remove to customize.
     -->
-    <link href="http://heroku.github.com/template-app-bootstrap/heroku.css" rel="stylesheet">
+    <link href="/css/people.css" rel="stylesheet">
     <!-- /// -->
 
 </head>
@@ -27,7 +27,7 @@
 <div class="navbar navbar-fixed-top">
     <div class="navbar-inner">
         <div class="container">
-            <a href="/" class="brand">Spring MVC and Hibernate Template</a>
+            <a href="/" class="brand">asirera Web-Services</a>
             <a href="/" class="brand" id="heroku">by <strong>heroku</strong></a>
         </div>
     </div>
