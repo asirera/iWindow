@@ -3,7 +3,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>iWindodWebServices</title>
+  <title>iWindowWebServices</title>
 
   <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -94,7 +94,7 @@
   Thisplication that uses Spring MVC and Hibernate. The sample code is a simple CRUD page
   that manipulateso try it out go to the <a href="/people/">people page</a>. Then
   use Eclipse or the Command Line to deploy some changes.
-  <a href="/people2/">people2 page</a>.
+  
 </div>
 
 <ul id="tab" class="nav nav-tabs">
