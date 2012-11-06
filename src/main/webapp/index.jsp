@@ -91,7 +91,10 @@
 </div>
 
 <div style="margin-bottom: 20px">
-  Web service: <a href="/people/">people page</a>. </div>
+  Web service: <a href="/people/">people page</a>.
+ Web service: <a href="people.jsp">people page</a>. 
+</div>
+
 
 <ul id="tab" class="nav nav-tabs">
   <li class="active"><a href="#eclipse-instructions" data-toggle="tab">Use Eclip</a></li>
